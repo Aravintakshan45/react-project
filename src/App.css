@@ -1,0 +1,213 @@
+/* this is for setting the table in index */
+
+body {
+    background: linear-gradient(to left, #e69721 50%, #fae20a 50%, #d7ee07 50%);
+}
+
+.Apps {
+    color: rgb(7, 6, 6);
+    border-spacing: 8px;
+    text-align: center;
+    font-size: 31px;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+
+/* --------------------------------------- */
+
+
+/* this is for setting the image size   */
+
+
+/*---------------------------- */
+
+
+/*EDITING BUTTONS */
+
+.bt {
+    border: 3px solid rgb(131, 35, 35);
+}
+
+
+/* ----------------------- */
+
+
+/*EDITING THE IMAGE BORDERS */
+
+.img {
+    border: solid 9px;
+}
+
+.img:hover {
+    border-color: turquoise;
+}
+
+.borders {
+    color: rgb(224, 15, 224);
+}
+
+
+/* -------- END OF THE IMAGE BORDERS ---------- */
+
+
+/* THIS IS USED FOR THE IMAGE SLIDER */
+
+
+/* ----------END OF THE IMAGE SLIDER------------ */
+
+
+/* this is for the heading for the  login page purpose*/
+
+.LoginPage {
+    text-align: center;
+    color: rgb(232, 248, 11);
+    background-color: rgb(12, 211, 101);
+    font-size: 60px;
+    text-align: center;
+}
+
+
+/*------------------------------------- */
+
+
+/* THIS IS FOR THE FORM IN LOGIN PAGE  */
+
+.LoginForm {
+    font-size: 40px;
+    text-align: center;
+}
+
+
+/* ---------------------------------- */
+
+
+/*---------- THIS IS USED TO MAKE MY NAVIGATION BAR */
+
+ul {
+    list-style-type: none;
+    margin: 30;
+    padding: 0;
+    font-size: 34px;
+}
+
+li {
+    display: inline-block;
+    padding: 1px 6px;
+}
+
+li a {
+    background-color: transparent;
+    color: yellow;
+}
+
+li a:hover {
+    background-color: rgba(209, 209, 39, 0.849);
+}
+
+
+/*-------------------------------------- */
+
+
+/* ------- SIMPLE BUTTON ----------*/
+
+.sbt {
+    color: rgb(230, 115, 21);
+    padding: 21px 52px;
+    font-size: x-large;
+    border: 12px solid black;
+    margin: auto;
+    display: flex;
+}
+
+
+/* ------------------- */
+
+
+/*--------- THIS IS USED FOR THE BOOKING THE SEATS  */
+
+table,
+th,
+td {
+    border: 3px solid black;
+    padding: 1px 18px;
+    float: center;
+    border-spacing: 3px;
+}
+
+
+/* ------------------- */
+
+
+/* THIS IS USED TABLES IN THE BUTTON */
+
+.bt {
+    background-color: rgb(36, 206, 78);
+}
+
+
+/*------------------------------- */
+
+
+/* THIS IS USED FOR BOOKING BUTTONS */
+
+.buttonTrue {
+    padding: 2px 2px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(20, 20, 20);
+    background-color: rgb(0, 255, 76);
+    border-radius: 5px;
+}
+
+.buttonFalse {
+    padding: 2px 2px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(20, 20, 20);
+    background-color: red;
+    border-radius: 5px;
+}
+
+
+/*------------------------------- */
+
+.bts {
+    float: right;
+    font-size: 32px;
+    border: 2px solid black;
+}
+
+
+/* This is used for the watch trailer headings  */
+
+.wt {
+    color: rgb(10, 10, 10);
+    text-align: center;
+    font-style: italic;
+    font-size: 60px;
+}
+
+
+/* ------------------------- */
+
+
+/* ----- this is used for creating navbars -------- */
+
+.navbar {
+    background-color: black;
+    margin: 1px;
+}
+
+.Footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+/* ---------------- */
